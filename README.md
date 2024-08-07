@@ -43,10 +43,6 @@ In this project, students will develop an algorithm and a Java application to he
 5. **Landmark-based Route Generation**: Enable users to input landmarks and generate routes accordingly. For example, if a user enters "Bank," the system should provide all routes passing through or near a bank to the destination.
 6. **Creativity**: Apply Divide and Conquer, Greedy, and Dynamic Programming approaches to optimize the algorithm's performance and enhance user experience.
 
-## Deliverables
-1. **Presentation of Algorithms**: Present the algorithms, explaining the techniques used and how they contribute to efficiency.
-2. **Java Application**: Develop a user-friendly Java application that incorporates the implemented algorithms, allowing users to easily input locations and landmarks to find optimal routes.
-
 ## Project Development Process
 ### Plans
 - The project development team identified the tasks to meet the project's objectives and created milestones to meet the deadline.
